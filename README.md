@@ -1,1 +1,1 @@
-[![Hackndo's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=nord&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=hackndo&theme=nord&show_icons=true&count_private=true)
+[![c0dejump GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=nord&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=nord&show_icons=true&count_private=true)
