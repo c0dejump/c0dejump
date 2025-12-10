@@ -10,6 +10,6 @@ If you want to buy me a coffee 😄
 
 <img src="https://github-profile-trophy.vercel.app/?username=c0dejump&row=1">
 
-| Projet HExHTTP | Projet wcDetect |
+|  HExHTTP |  wcDetect |
 |----------------|-----------------|
 | <a href="https://github.com/c0dejump/HExHTTP"><img src="https://raw.githubusercontent.com/c0dejump/HExHTTP/refs/heads/main/static/docs/_media/logo_v2_gif.gif" height="200"></a> | <a href="https://github.com/c0dejump/wcDetect"><img src="https://raw.githubusercontent.com/c0dejump/wcDetect/main/static/wcdetect_logo.png" height="220"></a> |
