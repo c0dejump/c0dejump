@@ -9,3 +9,6 @@ If you want to buy me a coffee 😄
 [![c0dejump GitHub stats](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=darcula&show_icons=true&count_private=true)
 
 <img src="https://github-profile-trophy.vercel.app/?username=c0dejump&row=1">
+
+<img src="https://raw.githubusercontent.com/c0dejump/HExHTTP/refs/heads/main/static/docs/_media/logo_v2_gif.gif">
+<img src="https://raw.githubusercontent.com/c0dejump/wcDetect/main/static/wcdetect_logo.png">
