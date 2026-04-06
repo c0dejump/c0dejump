@@ -1,7 +1,6 @@
 
 Plop ! 🖖
 
-## Stats
 <div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c0dejump?cardType=level&theme=tokyonight&fontFamily=Abel&preferLogin=false)](https://git.io/awesome-stats-card)
