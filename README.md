@@ -8,7 +8,7 @@ Plop ! 🖖
 </div>
 
 
-## Tools
+## ⛏️ Tools
 <div align="center">
   
 |  HExHTTP |  wcDetect |
@@ -20,7 +20,7 @@ Plop ! 🖖
 <br>
 
 
-## Links
+## 🔗 Links
 <!-- Social icons section -->
 <p align="center">
   <a href="https://x.com/c0dejump"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=50&id=fJp7hepMryiw&format=png&color=2EA043"/></a>
