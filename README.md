@@ -28,6 +28,8 @@ Plop ! 🖖
   <a href="https://ko-fi.com/c0dejump"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://paypal.me/c0dejump"><img width="32px" alt="paypal" title="Paypal" src="https://img.icons8.com/?size=50&id=24579&format=png&color=2EA043"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/sponsors/c0dejump"><img width="32px" alt="sponsor" title="Sponsor" src="https://img.icons8.com/?size=50&id=87&format=png&color=DB61A2"/></a>
 </p>
 
 <br>
