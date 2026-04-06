@@ -1,14 +1,15 @@
+
 Plop ! 🖖
 
-If you want to buy me a coffee ☕
-- https://ko-fi.com/c0dejump
-- https://paypal.me/c0dejump
+## Stats
+<div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=darcula&show_icons=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c0dejump?cardType=level&theme=tokyonight&fontFamily=Abel&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<img src="https://github-profile-trophy.vercel.app/?username=c0dejump&row=1">
-<br>
+</div>
 
+
+## Tools
 <div align="center">
   
 |  HExHTTP |  wcDetect |
@@ -18,6 +19,29 @@ If you want to buy me a coffee ☕
 </div>
 
 <br>
+
+
+## Links
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://x.com/c0dejump"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=50&id=fJp7hepMryiw&format=png&color=2EA043"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/c0dejump"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://paypal.me/c0dejump"><img width="32px" alt="paypal" title="Paypal" src="https://img.icons8.com/?size=50&id=24579&format=png&color=2EA043"/></a>
+</p>
+
+<br>
+
+## 🤗 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project.
+
+Make sure your request is meaningful and you have tested the app locally before submitting a pull request.
+
+<br>
+
+----
 
 <p align="right"><small><em>
 French papers/research: <br>
