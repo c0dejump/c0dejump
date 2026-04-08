@@ -14,6 +14,8 @@ Plop ! 🖖
 |  HExHTTP |  wcDetect |
 |----------------|-----------------|
 | <a href="https://github.com/c0dejump/HExHTTP"><img src="https://raw.githubusercontent.com/c0dejump/HExHTTP/refs/heads/main/static/docs/_media/logo_v2_gif.gif" height="200"></a> | <a href="https://github.com/c0dejump/wcDetect"><img src="https://raw.githubusercontent.com/c0dejump/wcDetect/main/static/wcdetect_logo.png" height="220"></a> |
+|  GimmeYourPassword |  UnKeyCloak |
+| <a href="https://github.com/c0dejump/GimmeYourPassword"><img src="https://github.com/c0dejump/GimmeYourPassword/blob/main/static/docs/_media/gyp_logo_dark.png" height="200"></a> | COMING SOON |
 
 </div>
 
