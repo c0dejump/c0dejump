@@ -33,7 +33,7 @@ Plop ! 🖖
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/sponsors/c0dejump"><img width="32px" alt="sponsor" title="Sponsor" src="https://img.icons8.com/?size=50&id=87&format=png&color=DB61A2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@bbcodejump"><img width="32px" alt="Medium" title="Medium" src="https://img.icons8.com/?size=50&id=XVNvUWCvvlD9&format=png&color=DB61A2"/></a>
+  <a href="https://medium.com/@bbcodejump"><img width="32px" alt="Medium" title="Medium" src="https://img.icons8.com/?size=50&id=XVNvUWCvvlD9&format=png&color=2EA043"/></a>
 </p>
 
 <br>
