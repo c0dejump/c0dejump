@@ -13,10 +13,10 @@ Plop ! 🖖
 ###  ⚔️ Security
 <div align="center">
   
-|  HExHTTP |  wcDetect |
+|  HExHTTP <br><img src="https://img.shields.io/github/stars/c0dejump/HExHTTP?style=for-the-badge&logo=github&color=white"> |  wcDetect <br><img src="https://img.shields.io/github/stars/c0dejump/wcDetect?style=for-the-badge&logo=github&color=white"> |
 |----------------|-----------------|
 | <a href="https://github.com/c0dejump/HExHTTP"><img src="https://raw.githubusercontent.com/c0dejump/HExHTTP/refs/heads/main/static/docs/_media/logo_v2_gif.gif" height="200"></a> | <a href="https://github.com/c0dejump/wcDetect"><img src="https://raw.githubusercontent.com/c0dejump/wcDetect/main/static/wcDetect_neon_logo.png" height="220"></a> |
-|  GimmeYourPassword |  UnKeyCloak |
+|  GimmeYourPassword <br><img src="https://img.shields.io/github/stars/c0dejump/GimmeYourPassword?style=for-the-badge&logo=github&color=white"> |  UnKeyCloak |
 | <a href="https://github.com/c0dejump/GimmeYourPassword"><img src="https://github.com/c0dejump/GimmeYourPassword/blob/main/static/docs/_media/gyp_logo_dark.png" height="200"></a> | COMING SOON |
 
 </div>
@@ -27,7 +27,7 @@ Plop ! 🖖
 
 <div align="center">
   
-|  OSINT Tools | Peek-A-Who |
+|  OSINT Tools <br><img src="https://img.shields.io/github/stars/c0dejump/OSINT-Tools?style=for-the-badge&logo=github&color=white"> | Peek-A-Who |
 |----------------|-----------------|
 | <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="200"></a> | COMING SOON |
 
