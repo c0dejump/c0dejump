@@ -9,6 +9,8 @@ Plop ! 🖖
 
 
 ## ⛏️ Tools
+
+###  ⚔️ Security
 <div align="center">
   
 |  HExHTTP |  wcDetect |
@@ -21,6 +23,15 @@ Plop ! 🖖
 
 <br>
 
+### 🔍 OSINT
+
+<div align="center">
+  
+|  OSINT Tools |
+|----------------|
+| <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="200"></a> |
+
+</div>
 
 ## 🔗 Links
 <!-- Social icons section -->
