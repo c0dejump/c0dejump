@@ -29,7 +29,7 @@ Plop ! 🖖
   
 |  OSINT Tools <br><img src="https://img.shields.io/github/stars/c0dejump/OSINT-Tools?style=for-the-badge&logo=github&color=white"> | Peek-A-Who | Sciel |
 |----------------|-----------------|-----------------|
-| <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="200"></a> | COMING SOON | COOMING SOON |
+| <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="220"></a> | COMING SOON <br> <img src="https://github.com/c0dejump/Peek-A-Who/blob/master/static/logo_PAW.png" height="220"> | COOMING SOON <br> <img src="https://github.com/c0dejump/Sciel/blob/main/static/Logo_sciel.png" height="220">|
 
 </div>
 
