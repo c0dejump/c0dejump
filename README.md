@@ -27,9 +27,9 @@ Plop ! 🖖
 
 <div align="center">
   
-|  OSINT Tools <br><img src="https://img.shields.io/github/stars/c0dejump/OSINT-Tools?style=for-the-badge&logo=github&color=white"> | Peek-A-Who | Sciel |
+|  OSINT Tools <br><img src="https://img.shields.io/github/stars/c0dejump/OSINT-Tools?style=for-the-badge&logo=github&color=white"> | Peek-A-Who <br><img src="https://img.shields.io/github/stars/c0dejump/Peek-A-Who?style=for-the-badge&logo=github&color=white">| Sciel <br><img src="https://img.shields.io/github/stars/c0dejump/Sciel?style=for-the-badge&logo=github&color=white">|
 |----------------|-----------------|-----------------|
-| <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="220"></a> | COMING SOON <br> <img src="https://github.com/c0dejump/Peek-A-Who/blob/master/static/logo_PAW.png" height="220"> | COOMING SOON <br> <img src="https://github.com/c0dejump/Sciel/blob/main/static/Logo_sciel.png" height="220">|
+| <a href="https://github.com/c0dejump/OSINT-tools"><img src="https://github.com/c0dejump/OSINT-tools/blob/master/Instaguard/exemple_instaguard.png" height="220"></a> | <br> <a href="https://github.com/c0dejump/Peek-A-Who"><img src="https://github.com/c0dejump/Peek-A-Who/blob/master/static/logo_PAW.png" height="220"></a> |  <br> <a href="https://github.com/c0dejump/Sciel"><img src="https://github.com/c0dejump/Sciel/blob/main/static/Logo_sciel.png" height="220"></a>|
 
 </div>
 
